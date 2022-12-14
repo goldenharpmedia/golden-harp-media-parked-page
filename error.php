@@ -142,7 +142,7 @@
               
               <div class="flex-width">
                 <h1 class="text-left">That's an Error (<?php print ($error_code); ?>)</h1>
-                <p>Looks like we've hit a bit of a snag. Check the URL above and try again. You can also head to the homepage of this website (<a class="standard-link" href="<?php print ($server_url); ?>"><?php print ($server_url); ?></a>) or go directly to the <a href="https://www.goldenharpmedia.com" class="standard-link">Golden Harp Media homepage</a> to find what you were looking for.</p>
+                <p>Looks like we've hit a bit of a snag. Check the URL above and try again. You can also head to the homepage of this website (<a class="standard-link" href="<?php print ($server_url); ?>"><?php print ($server_url); ?></a>) or go directly to the <a href="https://www.goldenharpmedia.com" class="standard-link">Golden Harp Media homepage</a> to try to find what you were looking for there.</p>
               </div>
             </div>
           </div>
